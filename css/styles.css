@@ -744,10 +744,3 @@ html {
         font-size: 14px;
     }
 }
-
-
-.experience-card {
-    background: red !important;
-    border: 5px solid yellow !important;
-    padding: 40px !important;
-}
