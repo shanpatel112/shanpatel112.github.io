@@ -326,6 +326,12 @@ section {
     font-weight: 700;
 }
 
+/* Highlight project titles */
+.project-card h3 {
+    color: var(--accent-main) !important;
+    font-weight: 700;
+}
+
 /* =====================
    ACHIEVEMENTS & CERTS
 ===================== */
