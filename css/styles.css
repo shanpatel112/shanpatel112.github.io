@@ -320,8 +320,10 @@ section {
 }
 
 .project-card h3 {
-    color: var(--neon-blue);
+    color: var(--accent-main);
     margin-bottom: 10px;
+    font-size: 1rem;
+    font-weight: 700;
 }
 
 /* =====================
